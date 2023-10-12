@@ -1,0 +1,2 @@
+[2022-10-20 22:24:11,281][run.py][line:121][INFO] start training on GPU 0!
+[2022-10-20 22:24:11,281][run.py][line:122][INFO] Namespace(bert_model_dir='', bert_tokenizer_dir='', bert_dim=1024, hidden_dim=300, gnn_hidden_dim=300, code_dim=192, feat_dim=1024, mlp_layers=2, gnn_layers=3, emb_dim=1024, iemocaptest=True, attn_type='rgcn', no_rel_attn=False, max_sent_len=200, no_cuda=False, dataset_name='DailyDialog', windowp=3, windowf=0, withvae=False, max_grad_norm=5.0, lr=2e-05, dropout=0.3, batch_size=32, epochs=50, tensorboard=False, nodal_att_type=None, cuda=True)
