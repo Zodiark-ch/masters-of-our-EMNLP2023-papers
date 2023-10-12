@@ -1,6 +1,24 @@
 # Our Papers
 Pytorch code for EMNLP 2023 accepted-main paper "How to Enhance Causal Discrimination of Utterances: A Case on Affective Reasoning" 
-and under-review paper "Learning a Structural Causal Model for Intuition Reasoning in Conversation" (open in arxiv)
+and under-review paper "Learning a Structural Causal Model for Intuition Reasoning in Conversation" (open in arxiv) 
+
+the bibtexs are 
+
+@inproceedings{
+chen2023how,
+title={How to Enhance Causal Discrimination of Utterances: A Case on Affective Reasoning},
+author={Chen, Hang and Yang, Xinyu and Luo, Jing and Zhu, Wenjing},
+booktitle={The 2023 Conference on Empirical Methods in Natural Language Processing},
+year={2023},
+url={https://openreview.net/forum?id=x7zquRQfoB}
+}
+
+@article{chen2023learning,
+  title={Learning a Structural Causal Model for Intuition Reasoning in Conversation},
+  author={Chen, Hang and Liao, Bingyu and Luo, Jing and Zhu, Wenjing and Yang, Xinyu},
+  journal={arXiv preprint arXiv:2305.17727},
+  year={2023}
+}
 
 ## Requirements
 * Python 
