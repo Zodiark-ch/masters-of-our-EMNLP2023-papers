@@ -13,11 +13,12 @@ year={2023},
 url={https://openreview.net/forum?id=x7zquRQfoB}
 }
 
-@article{chen2023learning,
-  title={Learning a Structural Causal Model for Intuition Reasoning in Conversation},
+@article{chen2024learning,
+  title={Learning a structural causal model for intuition reasoning in conversation},
   author={Chen, Hang and Liao, Bingyu and Luo, Jing and Zhu, Wenjing and Yang, Xinyu},
-  journal={arXiv preprint arXiv:2305.17727},
-  year={2023}
+  journal={IEEE Transactions on Knowledge and Data Engineering},
+  year={2024},
+  publisher={IEEE}
 }
 
 ## Requirements
@@ -40,7 +41,7 @@ For ERC task:
 `cd DAG-ECPE_ERC
 python run.py --args*` 
 
-The details of parameters are: 
+The details of the parameters are: 
 
 IEMOCAP: gnn_layers：1 ,batch_size：8 ,dropout：0.1,lr：0.0004,epoch：50 
 
@@ -55,7 +56,7 @@ For ECPE
 `cd DAG-ECPE 
 python run.py --args*` 
 
-The details of parameters are: 
+The details of the parameters are: 
 lr:6e-4 
 
 For ECSR 
