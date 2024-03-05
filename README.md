@@ -4,13 +4,23 @@ and TKDE paper "Learning a Structural Causal Model for Intuition Reasoning in Co
 
 the bibtexs are 
 
-@inproceedings{
-chen2023how,
-title={How to Enhance Causal Discrimination of Utterances: A Case on Affective Reasoning},
-author={Chen, Hang and Yang, Xinyu and Luo, Jing and Zhu, Wenjing},
-booktitle={The 2023 Conference on Empirical Methods in Natural Language Processing},
-year={2023},
-url={https://openreview.net/forum?id=x7zquRQfoB}
+@inproceedings{chen-etal-2023-enhance,
+    title = "How to Enhance Causal Discrimination of Utterances: A Case on Affective Reasoning",
+    author = "Chen, Hang  and
+      Yang, Xinyu  and
+      Luo, Jing  and
+      Zhu, Wenjing",
+    editor = "Bouamor, Houda  and
+      Pino, Juan  and
+      Bali, Kalika",
+    booktitle = "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing",
+    month = dec,
+    year = "2023",
+    address = "Singapore",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.emnlp-main.33",
+    doi = "10.18653/v1/2023.emnlp-main.33",
+    pages = "494--512",
 }
 
 @article{chen2024learning,
