@@ -35,6 +35,9 @@ the bibtexs are
 * Python 
 * PyTorch 
 * Transformers
+* sklearn
+* wandb
+* pandas
 
 
 ## Preparation
